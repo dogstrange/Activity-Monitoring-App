@@ -10,9 +10,9 @@ const {
   clockOut,
   pollIdleTime,
   pollActiveWin,
-} = require("./activity");
+} = require("./core/activity");
 
-const { saveSession } = require("./tool");
+const { saveSession } = require("./core/tool");
 
 const USERFILE = path.join(__dirname, "user.json");
 const SESSION_FILE = path.join(__dirname, "activity.json");
