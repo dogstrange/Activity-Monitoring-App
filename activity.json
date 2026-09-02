@@ -1,0 +1,71 @@
+[
+  {
+    "sessionId": "cheng_1788338430686",
+    "start": "Wed Sep 02 2026 15:40:30 GMT+0700 (Indochina Time)",
+    "stop": null,
+    "activeWin": {
+      "app": "Arc",
+      "title": ""
+    },
+    "idleTime": 0,
+    "appsKeyCount": {
+      "Code": 84,
+      "Arc": 563
+    },
+    "appsTimeCount": {
+      "Ghostty": 55,
+      "Code": 120,
+      "Arc": 260
+    }
+  },
+  {
+    "sessionId": "cheng_1788338799852",
+    "start": "Wed Sep 02 2026 15:46:39 GMT+0700 (Indochina Time)",
+    "stop": null,
+    "activeWin": {
+      "app": "Arc",
+      "title": ""
+    },
+    "idleTime": 0,
+    "appsKeyCount": {
+      "Arc": 6
+    },
+    "appsTimeCount": {
+      "Ghostty": 10,
+      "Code": 5,
+      "Arc": 65
+    }
+  },
+  {
+    "sessionId": "cheng_1788339952512",
+    "start": "Wed Sep 02 2026 16:05:52 GMT+0700 (Indochina Time)",
+    "stop": "Wed Sep 02 2026 16:08:30 GMT+0700 (Indochina Time)",
+    "activeWin": {
+      "app": "Ghostty",
+      "title": "✳ Code review and senior engineer guidance"
+    },
+    "idleTime": 50,
+    "appsKeyCount": {
+      "unknown": 94,
+      "Ghostty": 147
+    },
+    "appsTimeCount": {
+      "Ghostty": 105
+    }
+  },
+  {
+    "sessionId": "cheng_1788341498016",
+    "start": "Wed Sep 02 2026 16:31:38 GMT+0700 (Indochina Time)",
+    "stop": "Wed Sep 02 2026 16:34:55 GMT+0700 (Indochina Time)",
+    "activeWin": {
+      "app": "Code",
+      "title": "main.js — my-electron-app"
+    },
+    "idleTime": 40,
+    "appsKeyCount": {},
+    "appsTimeCount": {
+      "unknown": 65,
+      "Code": 90
+    }
+  }
+]

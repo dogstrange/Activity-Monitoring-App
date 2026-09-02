@@ -1,0 +1,19 @@
+{
+  "name": "my-electron-app",
+  "version": "1.0.0",
+  "description": "\"Propertyscout\"",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^41.7.1"
+  },
+  "dependencies": {
+    "active-win": "^7.7.2",
+    "uiohook-napi": "^1.5.5"
+  }
+}
